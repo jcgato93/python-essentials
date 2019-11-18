@@ -53,6 +53,10 @@ archivo requirements.txt con el comando:
         $ source venv\bin\active
 
         // windows
-        $ start venv\Scripts\activate
+        $ start <ambiente>\Scripts\activate
+
+        ó
+
+        $ <ambiente>\Scripts\activate
 
 
