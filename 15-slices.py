@@ -1,4 +1,4 @@
-# Los slides son una forma de tomar porciones de un string
+# Los slices son una forma de tomar porciones de un string
 
 my_name = "electroencefalografista"
 
