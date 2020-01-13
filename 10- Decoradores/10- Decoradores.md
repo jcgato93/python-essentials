@@ -8,3 +8,14 @@ su comportamiento
 - Súper útil para definir si una funcion debe ejecutarse o no.
 Un ejemplo en una aplicacion web es que una funcion se ejecute si el usuario esta
 autenticado.
+
+
+```python
+def lower_case(func):
+    def wrapper():
+        # execute code before
+        result = func()
+
+        # execute code after
+        return result
+```
